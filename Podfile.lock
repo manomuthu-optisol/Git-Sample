@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (4.4.0)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - FacebookCore (0.2.0):
+    - Bolts (~> 1.8)
+    - FBSDKCoreKit (~> 4.15)
+  - FacebookLogin (0.2.0):
+    - Bolts (~> 1.8)
+    - FacebookCore (~> 0.2)
+    - FBSDKCoreKit (~> 4.15)
+    - FBSDKLoginKit (~> 4.15)
+  - FBSDKCoreKit (4.23.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.23.0):
+    - FBSDKCoreKit
+  - IQKeyboardManagerSwift (4.0.9)
+  - MBProgressHUD (1.0.0)
+  - ObjectMapper (2.2.7)
+  - ReachabilitySwift (3)
+  - SkyFloatingLabelTextField (3.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - AlamofireObjectMapper (~> 4.0)
+  - FacebookLogin
+  - IQKeyboardManagerSwift
+  - MBProgressHUD (~> 1.0.0)
+  - ReachabilitySwift (~> 3)
+  - SkyFloatingLabelTextField (~> 3.0)
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  FacebookCore: 2cb3f0fbff218e9d3119cec84bae983b232412de
+  FacebookLogin: c9d606504735780a9e3002465a615512e0a691a5
+  FBSDKCoreKit: d7829f5a69901cd7296105328e4c3c3fc7da6518
+  FBSDKLoginKit: 6b92bd65f319d669d2b0730e49db495ef1660566
+  IQKeyboardManagerSwift: 2eefe6c429b86aa08bfbc1b5c891164d754adf91
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  ObjectMapper: 65abcfd9a61cf7396cbd14a4fb22fddfcc46577e
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SkyFloatingLabelTextField: 26a92ad407044dd5a7c3e4e348738ff0991514fe
+
+PODFILE CHECKSUM: e72bb77e09cb9307d1ec08437f312afcc96bb697
+
+COCOAPODS: 1.1.1
